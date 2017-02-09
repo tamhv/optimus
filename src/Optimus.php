@@ -9,7 +9,8 @@ class Optimus
     /**
      * @var int
      */
-    const MAX_INT = 2147483647;
+//    const MAX_INT = 2147483647;
+    const MAX_INT = 1000000000000;//13 digits
 
     /**
      * @var string
